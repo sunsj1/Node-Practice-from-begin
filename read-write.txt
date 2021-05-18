@@ -1,0 +1,1 @@
+welcome to file handling by node module appended new data using append
